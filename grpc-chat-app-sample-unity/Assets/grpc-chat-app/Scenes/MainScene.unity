@@ -6718,7 +6718,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2136206337}
   m_Layer: 5
-  m_Name: LoginOrSingUp
+  m_Name: LoginOrSignUp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
