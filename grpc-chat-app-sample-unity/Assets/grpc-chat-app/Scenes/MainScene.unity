@@ -746,7 +746,7 @@ GameObject:
   m_Component:
   - component: {fileID: 226699398}
   m_Layer: 5
-  m_Name: SingUp
+  m_Name: SignUp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
